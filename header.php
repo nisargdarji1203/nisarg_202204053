@@ -9,6 +9,7 @@
 <body>
 <header>
 	<nav>
+		<p>This is change for header instead of index.</p>
 		<a href="login_register.php">Home</a> | <?php echo $menu ?>
 		
 	</nav>
