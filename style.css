@@ -1,0 +1,36 @@
+/* This is a comment in CSS */
+
+/* Set a background color for the entire page */
+body {
+    background-color: #f0f0f0; /* Light grey */
+    font-family: Arial, sans-serif; /* Set font style */
+    margin: 0;
+    padding: 0;
+}
+
+/* Style for the header */
+header {
+    background-color: #333; /* Dark grey */
+    color: white; /* Text color */
+    text-align: center;
+    padding: 20px;
+}
+
+/* Style for all paragraphs */
+p {
+    font-size: 16px; /* Font size for paragraphs */
+    line-height: 1.6; /* Line spacing */
+    color: #333; /* Dark grey text color */
+}
+
+/* Add padding and margin to links */
+a {
+    text-decoration: none; /* Remove underline */
+    color: #007BFF; /* Blue color for links */
+    padding: 5px;
+}
+
+/* Change link color on hover */
+a:hover {
+    color: #0056b3; /* Darker blue on hover */
+}
